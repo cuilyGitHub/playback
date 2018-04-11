@@ -1,0 +1,872 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/js/index.js" line="47" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b7c2ac1d-5f4e-4dac-9642-87c3aaabbe3c" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Playback.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/Playback.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>new Maker</find>
+      <find>openInfoWindow</find>
+      <find>setMarker</find>
+      <find>setOtherMarker</find>
+      <find>UnMoveableMarker</find>
+      <find>setUnMoveableMarker</find>
+      <find>MoveableMarker</find>
+      <find>BDPolyline</find>
+      <find>display-tracks-btn</find>
+      <find>Window</find>
+      <find>TXPolyline</find>
+      <find>playbackOptions</find>
+      <find>color</find>
+      <find>route.color</find>
+      <find>transport</find>
+      <find>ctrl</find>
+      <find>speed-slider</find>
+      <find>speed-input</find>
+      <find>speed</find>
+      <find>close--fullScreenBtn</find>
+      <find>close</find>
+      <find>fullScreen</find>
+      <find>map</find>
+      <find>navbar-inner</find>
+      <find>play-pause</find>
+      <find>speed-btn</find>
+      <find>ui-slider</find>
+      <find>time-slider</find>
+      <find>calendar</find>
+      <find>direction</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>L</replace>
+      <replace>map</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$USER_HOME$/Downloads/LeafletPlayback-master/examples/example_2.html" />
+        <option value="$USER_HOME$/Downloads/LeafletPlayback-master/examples/example_2.js" />
+        <option value="$PROJECT_DIR$/css/index.css" />
+        <option value="$PROJECT_DIR$/lib/LeaflefExtended.js" />
+        <option value="$PROJECT_DIR$/lib/leaflet.min.css" />
+        <option value="$PROJECT_DIR$/lib/LeafletPlayback.min.js" />
+        <option value="$PROJECT_DIR$/lib/leaflet-src.min.js" />
+        <option value="$PROJECT_DIR$/1.html" />
+        <option value="$PROJECT_DIR$/js/MapJs.js" />
+        <option value="$PROJECT_DIR$/js/playback.js" />
+        <option value="$PROJECT_DIR$/demo.html" />
+        <option value="$PROJECT_DIR$/lib/LeafletPlayback.js" />
+        <option value="$PROJECT_DIR$/dome.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/lib/bsae-js/MapJs.js" />
+        <option value="$PROJECT_DIR$/js/index.js" />
+        <option value="$PROJECT_DIR$/lib/LeaflefPlaybackExtended.js" />
+        <option value="$PROJECT_DIR$/css/Playback.css" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-202" />
+    <option name="y" value="17" />
+    <option name="width" value="1788" />
+    <option name="height" value="1017" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="playback" type="b2602c69:ProjectViewProjectNode" />
+              <item name="playback" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="playback" type="b2602c69:ProjectViewProjectNode" />
+              <item name="playback" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="playback" type="b2602c69:ProjectViewProjectNode" />
+              <item name="playback" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="playback" type="b2602c69:ProjectViewProjectNode" />
+              <item name="playback" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="playback" type="b2602c69:ProjectViewProjectNode" />
+              <item name="playback" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="E:/tracker-vue" />
+    <property name="nodejs_interpreter_path" value="D:/Program Files/nodejs/node" />
+    <property name="js.eslint.eslintPackage" value="C:\Users\keyliu\AppData\Roaming\npm\node_modules\eslint" />
+    <property name="js-jscs-nodeInterpreter" value="D:\Program Files\nodejs\node.exe" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\公司用车系统\playback\lib\fmap" />
+      <recent name="E:\公司用车系统\playback\images" />
+      <recent name="E:\公司用车系统\playback\lib\bsae-js" />
+      <recent name="E:\公司用车系统\playback\lib" />
+      <recent name="E:\szcx\otherHtml\playback\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\公司用车系统\playback\lib\bsae-js" />
+      <recent name="C:\Users\Administrator\Desktop\playback\lib" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7c2ac1d-5f4e-4dac-9642-87c3aaabbe3c" name="Default" comment="" />
+      <created>1503367774130</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1503367774130</updated>
+      <workItem from="1503367775375" duration="21857000" />
+      <workItem from="1503394229092" duration="109000" />
+      <workItem from="1503457605425" duration="10000" />
+      <workItem from="1509933101063" duration="19253000" />
+      <workItem from="1513836183077" duration="2660000" />
+      <workItem from="1514251286369" duration="20749000" />
+      <workItem from="1514940437353" duration="616000" />
+      <workItem from="1520838143756" duration="13563000" />
+      <workItem from="1520904403859" duration="12741000" />
+      <workItem from="1520927909019" duration="2459000" />
+      <workItem from="1521700073023" duration="3460000" />
+      <workItem from="1522026411881" duration="145556000" />
+      <workItem from="1523165165457" duration="27091000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="270124000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18567808" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32795697" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18567808" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32795697" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/lib/LeaflefPlaybackExtended.js</url>
+          <line>233</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/lib/LeaflefPlaybackExtended.js</url>
+          <line>526</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/lib/LeaflefPlaybackExtended.js</url>
+          <line>551</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/lib/LeaflefPlaybackExtended.js</url>
+          <line>209</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/lib/LeafletPlayback.js</url>
+          <line>962</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/lib/LeafletPlayback.js</url>
+          <line>974</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/lib/LeaflefPlaybackExtended.js</url>
+          <line>459</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/lib/LeafletPlayback.js</url>
+          <line>906</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/lib/LeafletPlayback.js</url>
+          <line>927</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/lib/LeafletPlayback.js</url>
+          <line>895</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/lib/LeaflefPlaybackExtended.js</url>
+          <line>554</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/lib/bsae-js/MapJs.js</url>
+          <line>292</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/lib/bsae-js/MapJs.js</url>
+          <line>861</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/lib/bsae-js/MapJs.js</url>
+          <line>723</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/lib/bsae-js/MapJs.js</url>
+          <line>821</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="53" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/lib/LeaflefPlaybackExtended.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="44" column="30" lean-forward="true" selection-start-line="44" selection-start-column="30" selection-end-line="44" selection-end-column="30" />
+          <folding>
+            <element signature="e#1910#2002#0" expanded="false" />
+            <element signature="e#2031#2163#0" expanded="false" />
+            <element signature="e#5896#6145#0" expanded="false" />
+            <element signature="e#6188#6269#0" expanded="false" />
+            <element signature="e#6310#6408#0" expanded="false" />
+            <element signature="e#6458#6825#0" expanded="false" />
+            <element signature="e#14698#15347#0" expanded="false" />
+            <element signature="e#15397#16103#0" expanded="false" />
+            <element signature="e#16139#16197#0" expanded="false" />
+            <element signature="e#16238#16289#0" expanded="false" />
+            <element signature="e#17053#17871#0" expanded="false" />
+            <element signature="e#19281#19571#0" expanded="false" />
+            <element signature="n#!!block;n#getDirct#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.html" />
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="42" lean-forward="true" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/leaflet-src.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4726">
+          <caret line="281" column="9" lean-forward="true" selection-start-line="281" selection-start-column="9" selection-end-line="281" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/LeafletPlayback.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="50" column="14" lean-forward="false" selection-start-line="50" selection-start-column="14" selection-end-line="50" selection-end-column="14" />
+          <folding>
+            <element signature="e#656#3149#0" expanded="false" />
+            <element signature="e#18555#21530#0" expanded="false" />
+            <element signature="e#21572#24262#0" expanded="false" />
+            <element signature="e#24310#25578#0" expanded="false" />
+            <element signature="e#25965#27198#0" expanded="false" />
+            <element signature="e#27248#28589#0" expanded="false" />
+            <element signature="e#28641#30390#0" expanded="false" />
+            <element signature="e#34141#34245#0" expanded="false" />
+            <element signature="e#34480#43415#0" expanded="false" />
+            <element signature="e#36966#37058#0" expanded="false" />
+            <element signature="e#37086#37284#0" expanded="false" />
+            <element signature="e#37310#41574#0" expanded="false" />
+            <element signature="e#41610#41786#0" expanded="false" />
+            <element signature="e#41828#41909#0" expanded="false" />
+            <element signature="e#41949#42047#0" expanded="false" />
+            <element signature="e#42096#42530#0" expanded="false" />
+            <marker date="1522305876079" expanded="true" signature="3293:3417" ph="..." />
+            <marker date="1522305876079" expanded="true" signature="14572:14696" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/LeaflefPlaybackExtended.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6341">
+          <caret line="373" column="64" lean-forward="true" selection-start-line="373" selection-start-column="64" selection-end-line="373" selection-end-column="64" />
+          <folding>
+            <element signature="e#1910#2002#0" expanded="false" />
+            <element signature="e#2031#2163#0" expanded="false" />
+            <element signature="e#5896#6145#0" expanded="false" />
+            <element signature="e#6188#6269#0" expanded="false" />
+            <element signature="e#6310#6408#0" expanded="false" />
+            <element signature="e#6458#6825#0" expanded="false" />
+            <element signature="e#14698#15347#0" expanded="false" />
+            <element signature="e#15397#16103#0" expanded="false" />
+            <element signature="e#16139#16197#0" expanded="false" />
+            <element signature="e#16238#16289#0" expanded="false" />
+            <element signature="e#17053#17871#0" expanded="false" />
+            <element signature="e#19281#19571#0" expanded="false" />
+            <element signature="n#!!block;n#getDirct#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/Playback2.css" />
+    <entry file="file://$PROJECT_DIR$/js/index1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="55" column="53" lean-forward="true" selection-start-line="55" selection-start-column="53" selection-end-line="55" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="27" lean-forward="false" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/leaflet-src.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="61" column="13" lean-forward="false" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/LeafletPlayback.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="50" column="14" lean-forward="false" selection-start-line="50" selection-start-column="14" selection-end-line="50" selection-end-column="14" />
+          <folding>
+            <element signature="e#656#3149#0" expanded="false" />
+            <element signature="e#18555#21530#0" expanded="false" />
+            <element signature="e#21572#24262#0" expanded="false" />
+            <element signature="e#24310#25578#0" expanded="false" />
+            <element signature="e#25965#27198#0" expanded="false" />
+            <element signature="e#27248#28589#0" expanded="false" />
+            <element signature="e#28641#30390#0" expanded="false" />
+            <element signature="e#34141#34245#0" expanded="false" />
+            <element signature="e#34480#43415#0" expanded="false" />
+            <element signature="e#36966#37058#0" expanded="false" />
+            <element signature="e#37086#37284#0" expanded="false" />
+            <element signature="e#37310#41574#0" expanded="false" />
+            <element signature="e#41610#41786#0" expanded="false" />
+            <element signature="e#41828#41909#0" expanded="false" />
+            <element signature="e#41949#42047#0" expanded="false" />
+            <element signature="e#42096#42530#0" expanded="false" />
+            <marker date="1522305876079" expanded="true" signature="3293:3417" ph="..." />
+            <marker date="1522305876079" expanded="true" signature="14572:14696" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/Playback2.css" />
+    <entry file="file://$PROJECT_DIR$/js/index1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="36" lean-forward="false" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/LeaflefPlaybackExtended.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="16" lean-forward="false" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
+          <folding>
+            <element signature="e#1910#2002#0" expanded="false" />
+            <element signature="e#2031#2163#0" expanded="false" />
+            <element signature="e#5896#6145#0" expanded="false" />
+            <element signature="e#6188#6269#0" expanded="false" />
+            <element signature="e#6310#6408#0" expanded="false" />
+            <element signature="e#6458#6825#0" expanded="false" />
+            <element signature="e#14698#15347#0" expanded="false" />
+            <element signature="e#15397#16103#0" expanded="false" />
+            <element signature="e#16139#16197#0" expanded="false" />
+            <element signature="e#16238#16289#0" expanded="false" />
+            <element signature="e#17053#17871#0" expanded="false" />
+            <element signature="e#19281#19571#0" expanded="false" />
+            <element signature="n#!!block;n#getDirct#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/bootstrap-combined.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/LeafletPlayback-master/examples/example_2_control.js" />
+    <entry file="file://$USER_HOME$/Downloads/LeafletPlayback-master/examples/example_2.html" />
+    <entry file="file://$USER_HOME$/Downloads/LeafletPlayback-master/dist/LeafletPlayback.js" />
+    <entry file="file://$USER_HOME$/Downloads/LeafletPlayback-master/examples/example_2.js" />
+    <entry file="file://$PROJECT_DIR$/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="28" lean-forward="false" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/工作文件/webapp/dist/widgets/playback/dist/LeafletPlayback.js" />
+    <entry file="file://$PROJECT_DIR$/lib/jquery-ui/jquery-ui.css" />
+    <entry file="file://$PROJECT_DIR$/lib/jquery-ui/jquery-ui.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/jquery-ui/jquery-ui.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4710">
+          <caret line="3" column="47" lean-forward="true" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/leaflet.css" />
+    <entry file="file://$PROJECT_DIR$/lib/bootstrap.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/jquery-1.10.2.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/normalboat2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/leaflet.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="7805" lean-forward="false" selection-start-line="0" selection-start-column="7805" selection-end-line="0" selection-end-column="7805" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/leaflet-src.min.js" />
+    <entry file="file://$PROJECT_DIR$/lib/LeafletPlayback.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="0" column="879" lean-forward="false" selection-start-line="0" selection-start-column="879" selection-end-line="0" selection-end-column="879" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/Playback2.css" />
+    <entry file="file://$PROJECT_DIR$/1.html" />
+    <entry file="file://E:/ace-master/elements.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/ace-master/dropzone.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/bsae-js/gpsUtils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/index1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="453">
+          <caret line="48" column="50" lean-forward="true" selection-start-line="48" selection-start-column="50" selection-end-line="48" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/bsae-js/measure.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/ace-master/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/endIcon.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/leaflet-src.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93211">
+          <caret line="5486" column="36" lean-forward="false" selection-start-line="5486" selection-start-column="36" selection-end-line="5486" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/fmap/fmap-src.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/bsae-js/MapJs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11356">
+          <caret line="1560" column="32" lean-forward="false" selection-start-line="1560" selection-start-column="21" selection-end-line="1560" selection-end-column="32" />
+          <folding>
+            <element signature="e#2778#4735#0" expanded="false" />
+            <element signature="e#4784#5992#0" expanded="false" />
+            <element signature="e#6027#7833#0" expanded="false" />
+            <element signature="e#7870#8211#0" expanded="false" />
+            <element signature="e#8269#8788#0" expanded="false" />
+            <element signature="e#8849#9422#0" expanded="false" />
+            <element signature="e#9460#10001#0" expanded="false" />
+            <element signature="e#10050#10696#0" expanded="false" />
+            <element signature="e#11450#13486#0" expanded="false" />
+            <element signature="e#13550#15206#0" expanded="false" />
+            <element signature="e#15256#16946#0" expanded="false" />
+            <element signature="n#!!block;n#BDBounds#0" expanded="false" />
+            <element signature="e#17516#19231#0" expanded="false" />
+            <element signature="e#19280#19995#0" expanded="false" />
+            <element signature="e#22108#23585#0" expanded="false" />
+            <element signature="e#23701#23824#0" expanded="false" />
+            <element signature="n#!!block;n#GDBounds#0" expanded="false" />
+            <element signature="e#25324#25367#0" expanded="false" />
+            <element signature="e#25414#25457#0" expanded="false" />
+            <element signature="e#25731#26534#0" expanded="false" />
+            <element signature="e#26583#27555#0" expanded="false" />
+            <element signature="e#28839#30972#0" expanded="false" />
+            <element signature="e#31034#32329#0" expanded="false" />
+            <element signature="e#32380#34366#0" expanded="false" />
+            <element signature="n#!!block;n#TXBounds#0" expanded="false" />
+            <element signature="e#34655#34844#0" expanded="false" />
+            <element signature="e#34882#35703#0" expanded="false" />
+            <element signature="e#35751#36410#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="37" lean-forward="true" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dome.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="12" lean-forward="false" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="35" column="47" lean-forward="true" selection-start-line="35" selection-start-column="47" selection-end-line="35" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/LeafletPlayback.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="302" column="19" lean-forward="false" selection-start-line="302" selection-start-column="8" selection-end-line="302" selection-end-column="19" />
+          <folding>
+            <element signature="e#656#3149#0" expanded="false" />
+            <element signature="e#18555#21530#0" expanded="false" />
+            <element signature="e#21572#24262#0" expanded="false" />
+            <element signature="e#24310#25578#0" expanded="false" />
+            <element signature="e#25965#27198#0" expanded="false" />
+            <element signature="e#27248#28589#0" expanded="false" />
+            <element signature="e#28641#30390#0" expanded="false" />
+            <element signature="e#34141#34245#0" expanded="false" />
+            <element signature="e#34480#43415#0" expanded="false" />
+            <element signature="e#36966#37058#0" expanded="false" />
+            <element signature="e#37086#37284#0" expanded="false" />
+            <element signature="e#37310#41574#0" expanded="false" />
+            <element signature="e#41610#41786#0" expanded="false" />
+            <element signature="e#41828#41909#0" expanded="false" />
+            <element signature="e#41949#42047#0" expanded="false" />
+            <element signature="e#42096#42530#0" expanded="false" />
+            <marker date="1522305876079" expanded="true" signature="3293:3417" ph="..." />
+            <marker date="1522305876079" expanded="true" signature="14572:14696" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/LeaflefPlaybackExtended.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="128" column="24" lean-forward="false" selection-start-line="128" selection-start-column="16" selection-end-line="128" selection-end-column="24" />
+          <folding>
+            <element signature="e#1910#2002#0" expanded="false" />
+            <element signature="e#2031#2163#0" expanded="false" />
+            <element signature="e#5896#6145#0" expanded="false" />
+            <element signature="e#6188#6269#0" expanded="false" />
+            <element signature="e#6310#6408#0" expanded="false" />
+            <element signature="e#6458#6825#0" expanded="false" />
+            <element signature="e#14698#15347#0" expanded="false" />
+            <element signature="e#15397#16103#0" expanded="false" />
+            <element signature="e#16139#16197#0" expanded="false" />
+            <element signature="e#16238#16289#0" expanded="false" />
+            <element signature="e#17053#17871#0" expanded="false" />
+            <element signature="e#19281#19571#0" expanded="false" />
+            <element signature="n#!!block;n#getDirct#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="97" column="21" lean-forward="true" selection-start-line="97" selection-start-column="21" selection-end-line="97" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/startIcon.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/Playback.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
