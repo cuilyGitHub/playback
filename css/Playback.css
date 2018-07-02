@@ -1,3 +1,23 @@
+::-webkit-scrollbar{
+    width: 5px;
+    margin: 1px 0;
+}
+::-webkit-scrollbar-track {
+    background-color: #efefef;
+} /* 滚动条的滑轨背景颜色 */
+
+::-webkit-scrollbar-thumb {
+    background-color: rgba(194,194,194,0.5);
+    /*border: 1px solid #b7b7b7;*/
+} /* 滑块颜色 */
+
+/*::-webkit-scrollbar-button {*/
+/*background-color: #999999;*/
+/*} !* 滑轨两头的监听按钮颜色 *!*/
+
+::-webkit-scrollbar-corner {
+    background-color: black;
+} /* 横向滚动条和纵向滚动条相交处尖角的颜色 */
 .close--fullScreenBtn{
     display:inline-block;
     vertical-align:middle;
@@ -62,22 +82,48 @@ footer.lp {
   right: 0;
   left: 0;
   bottom: 10px;
+    z-index: 999;
 }
 
 .lp .transport {
   margin: 0 auto;
   width:970px;
-  height: 200px;
   background-color: rgba(255,255,255,0.7);
-    margin-bottom: 20px;
     -moz-box-shadow: 2px 2px 7px #848484; /* 老的 Firefox */
     box-shadow: 2px 2px 7px #848484;
     padding: 15px;
 }
 
 .lp .navbar {
-  height: 90px;
-  margin-bottom: 0;
+  /*height: 100px;*/
+  margin-bottom: 5px;
+}
+
+.lp .navbar .color-bar{
+    display: flex;
+    justify-content:center;
+    width: 190px;
+    float: right;
+    margin-right: 15px;
+}
+.lp .navbar .color-bar span{
+    display: block;
+    height: 20px;
+    width: 100%;
+    color: white;
+    text-align: center;
+}
+
+.lp .navbar .color-bar .red{
+    background-color: #cc2a37;
+}
+
+.lp .navbar .color-bar .yellow{
+    background-color: #f2bd00;
+}
+
+.lp .navbar .color-bar .green{
+    background-color: #608008;
 }
 
 .lp .speed-box{
@@ -114,7 +160,7 @@ footer.lp {
 }
 
 .lp .ui-slider {
-  margin: 13px;
+  margin: 10px 13px;
 }
 
 .lp #time-slider {
@@ -159,6 +205,28 @@ footer.lp {
 
 .lp .navbar .date-panel {
     width: 915px;
+}
+
+.lp .navbar .slider-box{
+    overflow: hidden;
+    width: 100%;
+}
+
+/* 单加停止icon*/
+.lp .navbar .stop-icon{
+    width: 905px;
+    height: 25px;
+    margin: -13px 13px 5px 7px;
+}
+
+.lp .navbar .stop-icon .item{
+    display: block;
+    position: absolute;
+    background: url("../images/stopIcon.png") no-repeat center;
+    background-size: 35px;
+    width: 25px;
+    height: 34px;
+    cursor: pointer;
 }
 
 .lp .navbar .date-panel .direction {
@@ -222,10 +290,6 @@ footer.lp {
 }
 
 /* 新增底部描述面板 */
-.lp .navbar-des-panel{
-    height: 140px;
-}
-
 .lp .navbar-des-panel .title{
     overflow: hidden;
 }
@@ -236,20 +300,37 @@ footer.lp {
     font-size: 15px;
     font-weight: bold;
 }
+.lp .navbar-des-panel .title .use{
+    width: 40%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
 .lp .navbar-des-panel .title .margin-right{
     margin-right: 35px;
 }
 
 .lp .navbar-des-panel .describe{
-    margin-top: 15px;
-    height: 80px;
+    margin-top: 5px;
+    height: 70px;
     overflow-y: auto;
+    font-family:"STXihei ",微软雅黑,"MicrosoftJhengHei",华文细黑,STHeiti,MingLiu
+}
+.lp .navbar-des-panel .describe .red-font{
+    color: red;
+
+}
+.lp .navbar-des-panel .describe .blue-font{
+    color: blue;
 }
 .lp .navbar-des-panel .describe p{
     font-size: 14px;
 }
-
 /* end  */
+
+
+
 
 /*Bootstrap interfering with leaflet*/
 input {

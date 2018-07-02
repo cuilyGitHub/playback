@@ -9,3 +9,20 @@ body, html, #map {
 div.leaflet-control-layers.leaflet-control-layers-expanded.leaflet-control{
     display: none!important;
 }
+
+.infoTab {
+    float: left; /* 自适应内容宽度 */
+    position: relative;
+    left: 50%;
+    margin-top: 10%;
+    display: none;
+    z-index: 9999;
+}
+.info {
+    position: relative;
+    left: -50%;
+    background-color: rgba(255,255,255,0.7);
+    -moz-box-shadow: 2px 2px 7px #848484; /* 老的 Firefox */
+    box-shadow: 2px 2px 7px #848484;
+    padding: 10px;
+}
